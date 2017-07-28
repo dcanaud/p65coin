@@ -158,8 +158,8 @@
         <translation>Lemezen lévő blokkok újraindexelése...</translation>
     </message>
     <message>
-        <source>Send coins to a Litecoin address</source>
-        <translation>Litecoin küldése megadott címre</translation>
+        <source>Send coins to a P65Coin address</source>
+        <translation>P65Coin küldése megadott címre</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -182,8 +182,8 @@
         <translation>Üzenet &amp;valódiságának ellenőrzése</translation>
     </message>
     <message>
-        <source>Litecoin</source>
-        <translation>Litecoin</translation>
+        <source>P65Coin</source>
+        <translation>P65Coin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -210,12 +210,12 @@
         <translation>A tárcádhoz tartozó privát kulcsok titkosítása</translation>
     </message>
     <message>
-        <source>Sign messages with your Litecoin addresses to prove you own them</source>
-        <translation>Üzenetek aláírása a Litecoin-címmeiddel, amivel bizonyítod, hogy a cím a sajátod</translation>
+        <source>Sign messages with your P65Coin addresses to prove you own them</source>
+        <translation>Üzenetek aláírása a P65Coin-címmeiddel, amivel bizonyítod, hogy a cím a sajátod</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Litecoin addresses</source>
-        <translation>Üzenetek ellenőrzése, hogy valóban a megjelölt Litecoin-címekkel vannak-e aláírva</translation>
+        <source>Verify messages to ensure they were signed with specified P65Coin addresses</source>
+        <translation>Üzenetek ellenőrzése, hogy valóban a megjelölt P65Coin-címekkel vannak-e aláírva</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -234,8 +234,8 @@
         <translation>Fül eszköztár</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and litecoin: URIs)</source>
-        <translation>Fizetési kérelem (QR-kódot és "litecoin:" URI azonosítót hoz létre)</translation>
+        <source>Request payments (generates QR codes and p65coin: URIs)</source>
+        <translation>Fizetési kérelem (QR-kódot és "p65coin:" URI azonosítót hoz létre)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -246,16 +246,16 @@
         <translation>A használt fogadó címek és címkék megtekintése</translation>
     </message>
     <message>
-        <source>Open a litecoin: URI or payment request</source>
-        <translation>"litecoin:" URI azonosító vagy fizetési kérelem megnyitása</translation>
+        <source>Open a p65coin: URI or payment request</source>
+        <translation>"p65coin:" URI azonosító vagy fizetési kérelem megnyitása</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>Paran&amp;cssor kapcsolók</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Litecoin network</source>
-        <translation><numerusform>%n aktív kapcsolat a Litecoin hálózathoz</numerusform><numerusform>%n aktív kapcsolat a Litecoin hálózathoz</numerusform></translation>
+        <source>%n active connection(s) to P65Coin network</source>
+        <translation><numerusform>%n aktív kapcsolat a P65Coin hálózathoz</numerusform><numerusform>%n aktív kapcsolat a P65Coin hálózathoz</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Processed %n block(s) of transaction history.</source>
@@ -592,16 +592,16 @@
         <translation>Szakértő</translation>
     </message>
     <message>
-        <source>Automatically open the Litecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>A Litecoin-kliens portjának automatikus megnyitása a routeren. Ez csak akkor működik, ha a routered támogatja az UPnP-t és az engedélyezve is van rajta.</translation>
+        <source>Automatically open the P65Coin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>A P65Coin-kliens portjának automatikus megnyitása a routeren. Ez csak akkor működik, ha a routered támogatja az UPnP-t és az engedélyezve is van rajta.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
         <translation>&amp;UPnP port-feltérképezés</translation>
     </message>
     <message>
-        <source>Connect to the Litecoin network through a SOCKS5 proxy.</source>
-        <translation>Csatlakozás a Litecoin hálózatához SOCKS5 proxyn keresztül</translation>
+        <source>Connect to the P65Coin network through a SOCKS5 proxy.</source>
+        <translation>Csatlakozás a P65Coin hálózatához SOCKS5 proxyn keresztül</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -695,8 +695,8 @@
         <translation>Űrlap</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Litecoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>A kijelzett információ lehet, hogy elavult. A pénztárcája automatikusan szinkronizálja magát a Litecoin hálózattal miután a kapcsolat létrejön, de ez e folyamat még nem fejeződött be.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the P65Coin network after a connection is established, but this process has not completed yet.</source>
+        <translation>A kijelzett információ lehet, hogy elavult. A pénztárcája automatikusan szinkronizálja magát a P65Coin hálózattal miután a kapcsolat létrejön, de ez e folyamat még nem fejeződött be.</translation>
     </message>
     <message>
         <source>Watch-only:</source>
@@ -764,8 +764,8 @@
         <translation>Összeg</translation>
     </message>
     <message>
-        <source>Enter a Litecoin address (e.g. %1)</source>
-        <translation>Ad meg egy Litecoin címet (pl: %1)</translation>
+        <source>Enter a P65Coin address (e.g. %1)</source>
+        <translation>Ad meg egy P65Coin címet (pl: %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1285,7 +1285,7 @@
         <translation>A jelenleg kiválasztott aláírás másolása a rendszer-vágólapra</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Litecoin address</source>
+        <source>Sign the message to prove you own this P65Coin address</source>
         <translation>Üzenet </translation>
     </message>
     <message>
@@ -1378,8 +1378,8 @@
 </translation>
     </message>
     <message>
-        <source>Litecoin Core</source>
-        <translation>Litecoin Core</translation>
+        <source>P65Coin Core</source>
+        <translation>P65Coin Core</translation>
     </message>
     <message>
         <source>Execute command when a wallet transaction changes (%s in cmd is replaced by TxID)</source>
@@ -1533,7 +1533,7 @@
     </message>
     <message>
         <source>Insufficient funds</source>
-        <translation>Nincs elég litecoinod.</translation>
+        <translation>Nincs elég p65coinod.</translation>
     </message>
     <message>
         <source>Loading block index...</source>

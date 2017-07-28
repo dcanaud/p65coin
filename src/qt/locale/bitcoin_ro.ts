@@ -142,8 +142,8 @@
         <translation>Deschide &amp;URI...</translation>
     </message>
     <message>
-        <source>Send coins to a Litecoin address</source>
-        <translation>Trimite monedele către o adresă Litecoin</translation>
+        <source>Send coins to a P65Coin address</source>
+        <translation>Trimite monedele către o adresă P65Coin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -166,8 +166,8 @@
         <translation>&amp;Verifică mesajul...</translation>
     </message>
     <message>
-        <source>Litecoin</source>
-        <translation>Litecoin</translation>
+        <source>P65Coin</source>
+        <translation>P65Coin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -194,12 +194,12 @@
         <translation>Criptează cheile private care aparțin portofelului tău.</translation>
     </message>
     <message>
-        <source>Sign messages with your Litecoin addresses to prove you own them</source>
-        <translation>Semnează mesajele cu adresa ta de Litecoin pentru a face dovada că îți aparțin.</translation>
+        <source>Sign messages with your P65Coin addresses to prove you own them</source>
+        <translation>Semnează mesajele cu adresa ta de P65Coin pentru a face dovada că îți aparțin.</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Litecoin addresses</source>
-        <translation>Verifică mesajele cu scopul de a asigura faptul că au fost semnate cu adresa de Litecoin specificată.</translation>
+        <source>Verify messages to ensure they were signed with specified P65Coin addresses</source>
+        <translation>Verifică mesajele cu scopul de a asigura faptul că au fost semnate cu adresa de P65Coin specificată.</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -214,12 +214,12 @@
         <translation>&amp;Ajutor</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and litecoin: URIs)</source>
-        <translation>Cerere plată (generează coduri QR și litecoin: URIs)</translation>
+        <source>Request payments (generates QR codes and p65coin: URIs)</source>
+        <translation>Cerere plată (generează coduri QR și p65coin: URIs)</translation>
     </message>
     <message>
-        <source>Open a litecoin: URI or payment request</source>
-        <translation>Deschide un litecoin: URI sau cerere de plată</translation>
+        <source>Open a p65coin: URI or payment request</source>
+        <translation>Deschide un p65coin: URI sau cerere de plată</translation>
     </message>
     <message>
         <source>%1 behind</source>
@@ -748,8 +748,8 @@
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>Litecoin Core</source>
-        <translation>Litecoin Core</translation>
+        <source>P65Coin Core</source>
+        <translation>P65Coin Core</translation>
     </message>
     <message>
         <source>Information</source>
